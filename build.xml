@@ -507,7 +507,7 @@
       <arg value="-r"/>
       <arg value="${build.dir}"/>
       <arg value="--check-assertions"/>
-      <arg value="${test.docs.dir}/assertions-integration-testing.xml"/>
+      <arg value="${test.src.dir}/assertions-integration-testing.xml"/>
       <arg value="--html"/>
       <arg value="-o"/>
       <arg value="${reports.dir}/integration"/>
